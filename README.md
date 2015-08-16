@@ -11,6 +11,7 @@
 ## Infra
 
 * [Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html)
+* [Awk in 20 Minutes](http://ferd.ca/awk-in-20-minutes.html)
 
 ## General programming
 
@@ -22,6 +23,8 @@
 
 * [Extract dominant colors from an image as a palette](https://github.com/jyotiska/colorweave/)
 * [How to Implement Color Search](https://medium.com/jotform-form-builder/how-to-implement-color-search-96698bb5c659)
+* [OpenCV and Python K-Means Color Clustering](http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/)
+* [Find distance from camera to object/marker using Python and OpenCV](http://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)
 
 ## Golang
 
@@ -32,6 +35,7 @@
 
 * [Word2Vec is based on an approach from Lawrence Berkeley National Lab](https://www.kaggle.com/c/word2vec-nlp-tutorial/forums/t/12349/word2vec-is-based-on-an-approach-from-lawrence-berkeley-national-lab)
 * [Word2Vec - Word Vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors) - Tutorial with Python
+* [Why word2vec works](http://andyljones.tumblr.com/post/111299309808/why-word2vec-works)
 
 ## Solr
 
