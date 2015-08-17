@@ -30,6 +30,7 @@
 
 * [Practical Persistence in Go: Organising Database Access](http://www.alexedwards.net/blog/organising-database-access) - Database access patterns
 * [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
+* [GopherCon 2015: Blake Caldwell - Uptime: Building Resilient Services with Go](https://www.youtube.com/watch?v=PyBJQA4clfc) - [slides](https://github.com/gophercon/2015-talks/blob/master/Blake%20Caldwell%20-%20Uptime:%20Building%20Resilient%20Services%20with%20Go/2015-GopherCon-Talk-Uptime.pdf)
 
 ## Machine learning
 
