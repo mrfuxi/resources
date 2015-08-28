@@ -7,6 +7,7 @@
 ## Event sourcing
 
 * [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs) - Immutable events as a single source of truth, base for other "views" (SQL DB, full text index, ...) and time machine.
+* [Building and deploying microservices with event sourcing, CQRS and Docker (HackSummit 2014)](http://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-hacksummit-2014)
 
 ## Infra
 
