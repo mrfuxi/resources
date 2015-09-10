@@ -26,6 +26,7 @@
 * [How to Implement Color Search](https://medium.com/jotform-form-builder/how-to-implement-color-search-96698bb5c659)
 * [OpenCV and Python K-Means Color Clustering](http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/)
 * [Find distance from camera to object/marker using Python and OpenCV](http://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/)
+* [Machine Learning & Computer Vision Talks](http://www.computervisiontalks.com/) Many CV related talks. Both lectures and tutorials
 
 ## Golang
 
