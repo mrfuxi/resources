@@ -39,9 +39,15 @@
 * [Word2Vec is based on an approach from Lawrence Berkeley National Lab](https://www.kaggle.com/c/word2vec-nlp-tutorial/forums/t/12349/word2vec-is-based-on-an-approach-from-lawrence-berkeley-national-lab)
 * [Word2Vec - Word Vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors) - Tutorial with Python
 * [Why word2vec works](http://andyljones.tumblr.com/post/111299309808/why-word2vec-works)
+* [Modern Methods for Sentiment Analysis](http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis) - word2vec & doc2vec: Modern NLP Sentiment Analysis in Python
+* [Deep learning at Oxford 2015 - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) - A course I taught in 2015 at Oxford University with the help of Brendan Shillingford. [More info](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/)
 
 ## Solr
 
 * [Build Your Own Custom Lucene Query and Scorer](https://dzone.com/articles/build-your-own-custom-lucene)
 * [Using CustomScoreQuery For Custom Solr/Lucene Scoring](https://dzone.com/articles/using-customscorequery-custom)
 * [Implementing own LuceneQParserPlugin for Solr](https://dzone.com/articles/implementing-own)
+
+## Hardware
+
+* [Python for less than $7 by Graeme Cross](https://www.youtube.com/watch?v=7BGAHFsnDXA) from PyCon Australia
